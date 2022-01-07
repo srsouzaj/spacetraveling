@@ -45,7 +45,7 @@ export default function Home() {
                 </li>
                 <li>
                   <FiUser />
-                  Jorge de Souza
+                  Jorge de Souza J Ju
                 </li>
               </ul>
             </a>
@@ -67,7 +67,7 @@ export default function Home() {
         </div>
       </main>
     </>
-  )
+  );
 }
 
 // export const getStaticProps = async () => {
