@@ -1,8 +1,8 @@
 .posts {
-  margin-top:2em;
+  margin-top: 2em;
 
   > a {
-    display:block;
+    display: block;
   }
 
   a + a {
@@ -10,12 +10,12 @@
   }
 
   button {
-    border:none;
-    background:transparent;
-    font-weight:600;
+    border: none;
+    background: transparent;
+    font-weight: 600;
     font-size: 1.125rem;
-    color:var(--highlight);
-    margin-top:4rem;
+    color: var(--highlight);
+    margin-top: 4rem;
   }
 
 }
@@ -23,9 +23,9 @@
 .post {
 
   strong {
-    font-size:1.75rem;
+    font-size: 1.75rem;
     font-weight: bold;
-    color:var(--heading);
+    color: var(--heading);
   }
 
   p{
