@@ -121,7 +121,7 @@ export default function Home({
           )}
         </div>
 
-        {preview && (
+       {preview && (
           <aside>
             <Link href="/api/exit-preview">
               <a className={commonStyles.preview}>Sair do modo Preview</a>
