@@ -88,7 +88,7 @@ export default function Home({
   return (
     <>
       <Head>
-        <title>Home | spacetraveling</title>
+        <title>Home | spacetraveling </title>
       </Head>
 
       <main className={commonStyles.container}>
